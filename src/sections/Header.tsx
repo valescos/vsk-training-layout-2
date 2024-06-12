@@ -41,8 +41,8 @@ function Header() {
             onClick={() => setCurrentIndex(index)}
             className={
               index === currentIndex
-                ? "font-bold transition-all"
-                : "font-light transition-all"
+                ? "font-bold transition-all hover:underline decoration-accent decoration-2"
+                : "font-light transition-all hover:underline decoration-accent decoration-2"
             }
           >
             {item}
@@ -53,7 +53,7 @@ function Header() {
         <img
           src={main_img}
           alt=""
-          className="hover:scale-[102%] transition-all"
+          className="hover:scale-[102%] transition-all shadow-xl"
         />
       </div>
     </header>

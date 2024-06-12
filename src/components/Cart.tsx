@@ -23,7 +23,7 @@ const cart_icon = (
 
 function Cart() {
   return (
-    <div className="relative">
+    <div className="relative cursor-pointer">
       {cart_icon}
       <div className="absolute -top-4 -right-3 bg-accent rounded-full size-5 text-white text-[14px] font-body font-thin flex justify-center items-center">
         0

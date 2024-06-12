@@ -7,10 +7,20 @@ import img01 from "../imgs/favorites/img01.png";
 import img02 from "../imgs/favorites/img02.png";
 import img03 from "../imgs/favorites/img03.png";
 import img04 from "../imgs/favorites/img04.png";
+import img05 from "../imgs/favorites/img05.png";
+import img06 from "../imgs/favorites/img06.png";
+import img07 from "../imgs/favorites/img07.png";
+import img08 from "../imgs/favorites/img08.png";
+import img09 from "../imgs/favorites/img09.png";
+import img10 from "../imgs/favorites/img10.png";
 
 import per01 from "../imgs/personalized/per01.png";
 import per02 from "../imgs/personalized/per02.png";
 import per03 from "../imgs/personalized/per03.png";
+import per04 from "../imgs/personalized/per04.png";
+import per05 from "../imgs/personalized/per05.png";
+import per06 from "../imgs/personalized/per06.png";
+import per07 from "../imgs/personalized/per07.png";
 
 export const TITLE = "YOUR PERSONALIZED COFFEE";
 
@@ -72,6 +82,48 @@ export const FAVORITES = [
     img: img03,
   },
   {
+    id: "fa05",
+    price: "75.000",
+    title: "REVO Đậm Đà",
+    body: "đậm đà, đắng, truyền thống",
+    img: img05,
+  },
+  {
+    id: "fa06",
+    price: "75.000",
+    title: "REVO Đậm Đà",
+    body: "đậm đà, đắng, truyền thống",
+    img: img06,
+  },
+  {
+    id: "fa07",
+    price: "75.000",
+    title: "REVO Đậm Đà",
+    body: "đậm đà, đắng, truyền thống",
+    img: img07,
+  },
+  {
+    id: "fa08",
+    price: "75.000",
+    title: "REVO Đậm Đà",
+    body: "đậm đà, đắng, truyền thống",
+    img: img08,
+  },
+  {
+    id: "fa09",
+    price: "75.000",
+    title: "REVO Đậm Đà",
+    body: "đậm đà, đắng, truyền thống",
+    img: img09,
+  },
+  {
+    id: "fa10",
+    price: "75.000",
+    title: "REVO Đậm Đà",
+    body: "đậm đà, đắng, truyền thống",
+    img: img10,
+  },
+  {
     id: "fa04",
     price: "75.000",
     title: "REVO Đậm Đà",
@@ -104,5 +156,37 @@ export const PERSONALIZED = [
     title: "Combo Revo Honey",
     body: "Honey – trong tên gọi Revo Honey đến từ phương pháp chế biến hạt Arabica...",
     img: per03,
+  },
+  {
+    id: "pe04",
+    price: "139.000",
+    priceWhitOut: "113.000",
+    title: "Combo Revo Money",
+    body: "Money – trong tên gọi Revo Honey đến từ phương pháp chế biến hạt Arabica...",
+    img: per04,
+  },
+  {
+    id: "pe05",
+    price: "212.000",
+    priceWhitOut: "233.000",
+    title: "Combo Revo Money",
+    body: "Money – trong tên gọi Revo Honey đến từ phương pháp chế biến hạt Arabica...",
+    img: per05,
+  },
+  {
+    id: "pe06",
+    price: "150.000",
+    priceWhitOut: "170.000",
+    title: "Combo Bom Boom",
+    body: "Money – trong tên gọi Revo Honey đến từ phương pháp chế biến hạt Arabica...",
+    img: per06,
+  },
+  {
+    id: "pe07",
+    price: "666.000",
+    priceWhitOut: "777.000",
+    title: "Combo Revo Diablo",
+    body: "Money – trong tên gọi Revo Honey đến từ phương pháp chế biến hạt Arabica...",
+    img: per07,
   },
 ];
