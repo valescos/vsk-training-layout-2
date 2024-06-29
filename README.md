@@ -5,6 +5,7 @@
 
 Макет с [verstaem.online](https://verstaem.online/). Проверял как применять swiper в React
 
+#### Технологии:
 - React
 - TailwindCSS
 - Vite
